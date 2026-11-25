@@ -1,0 +1,178 @@
+text,category,label,label_name
+It didn't happen the way you think it did.,gaslighting,1,red_flag
+You spend too much time with your family.,controlling,1,red_flag
+You don't have to explain yourself to me. I trust you.,green_flag,0,green_flag
+I love you more than words can say and we just met.,love_bombing,1,red_flag
+I guess my feelings don't matter to you.,guilt_tripping,1,red_flag
+You're too emotional to see things clearly.,gaslighting,1,red_flag
+"You're the problem, not me.",disrespect,1,red_flag
+Tell me if I ever cross a line so I can fix it.,green_flag,0,green_flag
+You're the most exhausting person I've ever met.,disrespect,1,red_flag
+I want you to maintain your friendships — they're important.,green_flag,0,green_flag
+"You're perfect, don't ever change.",love_bombing,1,red_flag
+Thank you for being patient with me while I learn.,green_flag,0,green_flag
+You don't need to go out with your friends tonight.,controlling,1,red_flag
+I regret getting involved with you.,disrespect,1,red_flag
+I'm not raising my voice. You're imagining it.,gaslighting,1,red_flag
+You're pathetic.,disrespect,1,red_flag
+"Everyone thinks you're difficult to deal with, not just me.",disrespect,1,red_flag
+You owe me after everything I've put up with.,manipulation,1,red_flag
+I can't believe you'd accuse me of something like that.,gaslighting,1,red_flag
+Why are you even here if you're going to be like this?,disrespect,1,red_flag
+You always do this — blow things out of proportion.,gaslighting,1,red_flag
+I never ask for anything and the one time I do...,guilt_tripping,1,red_flag
+"Fine, don't worry about me. I'll be fine alone.",guilt_tripping,1,red_flag
+Your boundaries are completely reasonable.,green_flag,0,green_flag
+"Whatever you decide, I've got your back.",green_flag,0,green_flag
+"Take your time, there's no rush at all.",green_flag,0,green_flag
+You're such a burden.,disrespect,1,red_flag
+"Don't mind me, I'll just sit here by myself.",guilt_tripping,1,red_flag
+"I could have anyone I want, you should feel lucky.",manipulation,1,red_flag
+Why are you dressing up? Who are you trying to impress?,controlling,1,red_flag
+No one has ever made me feel this complete.,love_bombing,1,red_flag
+"Hey, I noticed you seemed off. Are you okay?",green_flag,0,green_flag
+Let's check in with each other — how are you really feeling?,green_flag,0,green_flag
+You're the only good thing in my life right now.,love_bombing,1,red_flag
+"You're remembering it wrong, as usual.",gaslighting,1,red_flag
+I need to know where you are at all times.,controlling,1,red_flag
+"If you need a quiet night to yourself, I totally get it.",green_flag,0,green_flag
+Let's find a compromise that works for both of us.,green_flag,0,green_flag
+You think you can do better? Good luck.,manipulation,1,red_flag
+"I hear you, and I'll do better next time.",green_flag,0,green_flag
+I want to spend every moment with you.,love_bombing,1,red_flag
+Your ideas are always so ridiculous.,disrespect,1,red_flag
+You're nothing without me and you know it.,manipulation,1,red_flag
+You'd do it if you actually loved me.,guilt_tripping,1,red_flag
+It's okay to say no. I'll never pressure you.,green_flag,0,green_flag
+I never said that. You must be misremembering.,gaslighting,1,red_flag
+"You're so stupid, how do you not understand this?",disrespect,1,red_flag
+I respect your boundaries and I won't push you on this.,green_flag,0,green_flag
+I'm glad you told me honestly instead of holding it in.,green_flag,0,green_flag
+You need to come home right now.,controlling,1,red_flag
+I do everything for this relationship and you do nothing.,guilt_tripping,1,red_flag
+"Tell your friends you can't hang out, you're with me.",controlling,1,red_flag
+"Let's move in together, I know it's fast but it feels right.",love_bombing,1,red_flag
+"You don't owe me anything, do what feels right for you.",green_flag,0,green_flag
+It's completely fine that you need space sometimes.,green_flag,0,green_flag
+You're embarrassing yourself right now.,disrespect,1,red_flag
+I'm sorry for being such a burden to you.,guilt_tripping,1,red_flag
+"Let's make it official right now, I don't want to wait.",love_bombing,1,red_flag
+"Do this or I'm leaving, your choice.",manipulation,1,red_flag
+I want to marry you and I've known you for 3 days.,love_bombing,1,red_flag
+I love how independent and driven you are.,green_flag,0,green_flag
+"Fine, then we're done. See how you like being alone.",manipulation,1,red_flag
+I always put you first. You never do the same.,guilt_tripping,1,red_flag
+I appreciate how honest and open you are with me.,green_flag,0,green_flag
+"Everyone agrees with me, you're the odd one out.",gaslighting,1,red_flag
+That's not what I meant and you know it.,gaslighting,1,red_flag
+"You're my soulmate, I knew it the moment I saw you.",love_bombing,1,red_flag
+I'm glad you have people in your life who care about you.,green_flag,0,green_flag
+"No one else has a problem with me, it's just you.",gaslighting,1,red_flag
+I think about you every single second of every day.,love_bombing,1,red_flag
+Nobody else would put up with you the way I do.,manipulation,1,red_flag
+"I'm sorry I interrupted you, please finish what you were saying.",green_flag,0,green_flag
+"Fine, it's okay. I'll just deal with it alone like always.",guilt_tripping,1,red_flag
+You need to stop letting your emotions control you.,gaslighting,1,red_flag
+We can disagree and still respect each other.,green_flag,0,green_flag
+"Thank you for telling me how you feel, it really helps me understand.",green_flag,0,green_flag
+"You're imagining things, that never happened.",gaslighting,1,red_flag
+"No, go hang out with your family. We'll catch up later.",green_flag,0,green_flag
+Your career goals matter a lot — I support you fully.,green_flag,0,green_flag
+If you really cared you wouldn't have to think twice.,guilt_tripping,1,red_flag
+"You're not wearing that, it's too revealing.",controlling,1,red_flag
+"I'll change, but only if you stay. That's the deal.",manipulation,1,red_flag
+"I'd do absolutely anything for you, anything.",love_bombing,1,red_flag
+Who is that guy in your photo? Delete it now.,controlling,1,red_flag
+I trust you. I don't need to know every detail.,green_flag,0,green_flag
+I can't imagine life without you already.,love_bombing,1,red_flag
+I've been waiting my whole life for someone like you.,love_bombing,1,red_flag
+"I appreciate everything you do, even the small things.",green_flag,0,green_flag
+I'll hurt myself if you break up with me.,manipulation,1,red_flag
+You make me feel like I'm invisible.,guilt_tripping,1,red_flag
+"If you tell anyone, I'll make sure people know your secrets.",manipulation,1,red_flag
+My friends say I'm moving too fast but they don't understand us.,love_bombing,1,red_flag
+Nobody asked for your opinion.,disrespect,1,red_flag
+Either you do this or we're done.,manipulation,1,red_flag
+I understand you're upset. Can we talk about what happened?,green_flag,0,green_flag
+I value your time and I know you're busy today.,green_flag,0,green_flag
+I never want you to feel like you have to hide things from me.,green_flag,0,green_flag
+Send me your location right now.,controlling,1,red_flag
+You'll regret losing me. I promise you that.,manipulation,1,red_flag
+Tell me what you need right now. I'll do my best.,green_flag,0,green_flag
+You're allowed to change your mind anytime.,green_flag,0,green_flag
+I guess I'm just not important enough to you.,guilt_tripping,1,red_flag
+"Every time I need you, you disappear.",guilt_tripping,1,red_flag
+"I've never connected with anyone this fast, it must be fate.",love_bombing,1,red_flag
+"I'm sorry, I was wrong. That was my fault.",green_flag,0,green_flag
+I'm proud of you for going after that opportunity.,green_flag,0,green_flag
+I'm here for you no matter what you're going through.,green_flag,0,green_flag
+"After everything I've done for you, this is how you treat me?",guilt_tripping,1,red_flag
+"We're a team, we'll get through this together.",green_flag,0,green_flag
+I can't take you seriously when you act like this.,disrespect,1,red_flag
+You have no idea what you're doing.,disrespect,1,red_flag
+I can't believe how dumb that was.,disrespect,1,red_flag
+I don't want you being friends with her anymore.,controlling,1,red_flag
+You're making things up to start a fight.,gaslighting,1,red_flag
+You have every right to be upset about that.,green_flag,0,green_flag
+"You're being dramatic again, calm down.",gaslighting,1,red_flag
+I'd never want you to miss out on something important to you.,green_flag,0,green_flag
+I don't think you should take that job opportunity.,controlling,1,red_flag
+I already told my whole family about you.,love_bombing,1,red_flag
+"If you loved me, you wouldn't go out tonight.",manipulation,1,red_flag
+"No one ever puts me first, not even you.",guilt_tripping,1,red_flag
+"You make me want to be a better person, stay with me forever.",love_bombing,1,red_flag
+I don't like you talking to him. Stop.,controlling,1,red_flag
+You always twist my words.,gaslighting,1,red_flag
+Why didn't you answer my call? I called 10 times.,controlling,1,red_flag
+You're choosing them over me? Wow.,guilt_tripping,1,red_flag
+I value your opinion even when we disagree.,green_flag,0,green_flag
+You act like a child when you don't get your way.,disrespect,1,red_flag
+You'd be lost without me in your life.,manipulation,1,red_flag
+I know things about you that nobody else does. Remember that.,manipulation,1,red_flag
+"I'm cheering for you, you've worked so hard for this.",green_flag,0,green_flag
+I trust your judgment completely.,green_flag,0,green_flag
+You need me more than you think you do.,manipulation,1,red_flag
+You're crazy if you think I would do that.,gaslighting,1,red_flag
+"Stop overreacting, it was nothing.",gaslighting,1,red_flag
+Delete his number right now if you care about me.,controlling,1,red_flag
+"Text me whenever you're free, no need to drop everything.",green_flag,0,green_flag
+I love spending time with you but I know you need time for yourself too.,green_flag,0,green_flag
+This is exactly why I don't tell you things.,gaslighting,1,red_flag
+I had a terrible day and you're not even here for me.,guilt_tripping,1,red_flag
+Go ahead and wear whatever makes you feel confident!,green_flag,0,green_flag
+"If you ever feel uncomfortable, just say the word and we'll leave.",green_flag,0,green_flag
+You were right and I should have listened. I'm sorry.,green_flag,0,green_flag
+I'm really happy you have such supportive friends.,green_flag,0,green_flag
+I sacrifice everything and you can't do this one thing.,guilt_tripping,1,red_flag
+You need my permission before spending money like that.,controlling,1,red_flag
+Don't talk to me like you know things.,disrespect,1,red_flag
+Who were you texting just now? Let me see your phone.,controlling,1,red_flag
+I'm excited for you to spend time with your family.,green_flag,0,green_flag
+You have to check in with me every hour.,controlling,1,red_flag
+You should ask me before making plans.,controlling,1,red_flag
+"If you leave me, I'll tell everyone what you did.",manipulation,1,red_flag
+You're literally the only person who understands me.,love_bombing,1,red_flag
+I read your messages. You shouldn't be talking to him.,controlling,1,red_flag
+You don't have to apologize for needing space.,green_flag,0,green_flag
+Let's talk this through calmly and figure it out together.,green_flag,0,green_flag
+"You're unlike anyone I've ever met, you're extraordinary.",love_bombing,1,red_flag
+"Let's figure out what works for both of us, no pressure.",green_flag,0,green_flag
+Let's take a breather and talk when we're both ready.,green_flag,0,green_flag
+"You're way too sensitive, I was just joking.",gaslighting,1,red_flag
+"Cancel your plans, I want to see you tonight.",controlling,1,red_flag
+"Your happiness matters to me, even when I'm not the reason for it.",green_flag,0,green_flag
+"Your feelings are valid, even if I see it differently.",green_flag,0,green_flag
+I completely understand why you feel that way.,green_flag,0,green_flag
+"God, you're so annoying sometimes.",disrespect,1,red_flag
+You need to prove to me that you love me.,manipulation,1,red_flag
+Stop acting like you matter in this situation.,disrespect,1,red_flag
+No one else will ever love you like I do.,manipulation,1,red_flag
+I thought you were different but you're just like everyone else.,guilt_tripping,1,red_flag
+"Take all the time you need with your friends tonight, have fun!",green_flag,0,green_flag
+Thank you for trusting me with how you feel.,green_flag,0,green_flag
+"I've never felt this way about anyone in my life, ever.",love_bombing,1,red_flag
+I went through so much trouble and you don't even appreciate it.,guilt_tripping,1,red_flag
+"You're a joke, you know that?",disrespect,1,red_flag
+Why do you always make everything into a big deal?,gaslighting,1,red_flag
+I made you who you are. Don't forget that.,manipulation,1,red_flag
+"Shut up, you don't know what you're talking about.",disrespect,1,red_flag

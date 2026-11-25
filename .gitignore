@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Large model checkpoints (optional: keep baseline_model.joblib if you want)
+models/distilbert_redflag/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
