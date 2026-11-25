@@ -84,14 +84,6 @@ Then open **http://localhost:7860** in your browser.
 
 ---
 
-## 📈 Extending the Project
-
-- **Add more data**: Add real examples from Reddit (`r/relationship_advice`, `r/amitheasshole`)
-- **Multi-label**: Classify into specific red flag categories, not just binary
-- **API**: Wrap `predict.py` in a FastAPI endpoint
-- **Mobile app**: Connect to a Flutter frontend
-
----
 
 ## 📦 Requirements
 
